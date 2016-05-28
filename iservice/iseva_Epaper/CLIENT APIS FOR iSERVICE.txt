@@ -1,0 +1,16 @@
+1)	http://xercesblue.website/iservice/client_requests/category/getcitiesncategories
+2)	http://xercesblue.website/iservice/client_requests/city/get
+3)	http://xercesblue.website/iservice/client_requests/city/addcity2gcmuser
+		a)	imei
+		b)	cities		-> is an array
+4)	http://xercesblue.website/iservice/client_requests/user/register
+		a)	name
+		b)	email
+		c)	contact
+		d)	username
+		e)	password
+		f)	imei
+		g)	promocode
+5)	http://xercesblue.website/iservice/client_requests/user/registergcm
+		a)	gcmid
+		b)	imei

@@ -1,0 +1,260 @@
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:10:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:11:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:12:26 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:13:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:14:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[20-Apr-2016 06:15:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 05:38:39 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:38:40 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:38:40 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:38:40 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:38:40 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:38:40 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:38:40 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 05:38:40 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:38:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:38:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 05:48:23 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:48:23 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:48:23 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:48:23 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:48:23 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:48:23 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:48:23 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 05:48:23 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:48:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:48:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 05:51:39 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:51:39 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:51:39 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:51:39 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:51:39 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:51:39 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:51:39 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 05:51:39 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:51:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:51:39 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 05:57:06 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:57:06 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:57:06 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:57:06 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:57:06 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:57:06 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:57:06 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 05:57:06 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:57:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:57:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 05:58:28 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:58:28 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:58:28 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 05:58:28 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:58:28 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:58:28 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 05:58:28 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 05:58:28 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:58:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 05:58:28 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:00:12 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:00:12 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:00:12 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:00:12 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:00:12 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:00:12 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:00:12 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:00:12 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:00:12 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:00:12 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:00:18 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:00:18 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:00:18 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:00:18 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:00:18 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:00:18 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:00:18 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:00:18 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:00:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:00:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:02:10 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:02:10 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:02:10 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:02:10 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:02:10 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:02:10 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:02:10 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:02:10 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:02:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:02:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:02:20 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:02:20 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:02:20 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:02:20 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:02:20 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:02:20 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:02:20 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:02:20 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:02:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:02:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:04:37 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:04:37 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:04:37 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:04:37 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:04:37 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:04:37 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:04:37 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:04:37 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:04:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:04:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:04:50 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:04:50 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:04:50 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:04:50 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:04:50 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:04:50 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:04:50 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:04:50 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:04:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:04:50 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:10:56 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:10:56 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:10:56 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:10:56 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:10:56 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:10:56 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:10:56 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:10:56 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:10:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:10:56 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:20:13 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:20:13 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:20:13 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:20:13 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:20:13 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:20:13 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:20:13 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:20:13 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:20:13 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:20:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:27:45 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:27:45 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:27:45 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:27:45 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:27:45 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:27:45 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:27:45 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:27:45 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:27:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:27:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:38:07 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:38:07 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:38:07 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:38:07 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:38:07 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:38:07 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:38:07 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:38:07 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:38:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:38:07 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:54:51 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:54:51 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:54:51 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:54:51 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:54:51 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:54:51 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:54:51 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:54:51 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:54:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:54:51 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 06:58:52 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:58:52 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:58:52 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 06:58:52 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:58:52 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:58:52 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 06:58:52 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 06:58:52 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:58:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 06:58:52 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 07:17:15 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:17:15 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:17:15 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:17:15 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:17:15 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:17:15 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:17:15 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 07:17:15 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 07:17:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 07:17:15 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 07:25:44 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:25:44 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:25:44 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:25:44 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:25:44 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:25:44 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:25:44 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 07:25:44 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 07:25:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 07:25:44 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6
+[02-May-2016 07:34:46 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:34:46 Etc/GMT] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:34:46 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 2
+[02-May-2016 07:34:46 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:34:46 Etc/GMT] PHP Warning:  include(checkLoginOrNot.php): failed to open stream: No such file or directory in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:34:46 Etc/GMT] PHP Warning:  include(): Failed opening 'checkLoginOrNot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/r3narivv/public_html/delete_calllog/index.php on line 3
+[02-May-2016 07:34:46 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/r3narivv/public_html/delete_calllog/index.php on line 4
+[02-May-2016 07:34:46 Etc/GMT] PHP Notice:  Undefined variable: db in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 07:34:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 5
+[02-May-2016 07:34:46 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r3narivv/public_html/delete_calllog/index.php on line 6

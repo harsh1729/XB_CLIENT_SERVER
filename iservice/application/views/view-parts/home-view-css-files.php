@@ -1,0 +1,10 @@
+<style>
+	body
+	{
+		padding-top:110px;
+	}
+	#left-navigation-container
+	{
+		margin-top:-110px;
+	}
+</style>

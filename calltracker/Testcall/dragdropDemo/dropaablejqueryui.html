@@ -1,0 +1,100 @@
+<html>
+	<head>
+		<link href="http://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js"></script>
+		<style>
+		  .draggableClass { width: 450px; height: 150px; padding: 0.5em; background:#eee;}
+		  .draggedOutClass
+		  {
+		  	background-color: #9d7862;
+		  }
+		  .draggedClass
+		  {
+		  	background-color: #f900ff;
+		  }
+		  .activeClass
+		  {
+		  	background-color:#00ff2d;
+		  }
+		  .hoverClass
+		  {
+		  	background-color:#ff0000;
+		  }
+		  </style>
+		  <script>
+			  $(function() {
+			    $( "p" ).draggable({
+			    	//disabled:true,
+			    	distance:10,
+			    	//delay:500,//wait for 500ms
+			    	//axis:"y",
+			    	//containment:"#draggable",
+			    	cursor:'move',
+			    	revert:'invalid',
+			    	//snap:'#droppable',
+			    	//snapMode:'both',
+			    	//snapTolerance:40
+			    });
+			    $( "p.jaspal" ).draggable({
+			    	//disabled:true,
+			    	distance:10,
+			    	//delay:500,//wait for 500ms
+			    	//axis:"y",
+			    	//containment:"#draggable",
+			    	cursor:'move',
+			    	revert:'invalid',
+			    	snap:'#droppable',
+			    	snapMode:'both',
+			    	snapTolerance:40
+			    });
+			    
+			    $( "#droppable" ).droppable({
+			    	accept:'.jaspal',
+		            tolerance: 'touch',
+		            activeClass:"activeClass",
+		            hoverClass:"hoverClass",
+		            //greedy:true,
+		            drop: function( event, ui ) {	
+		            
+		            	console.log("drop");	            
+			        	$( this )
+			        	.addClass( "draggedClass" )
+			         	.find( "p" )
+			         	.html( "Dropped with a touch!" );
+			        	//ui.draggable.draggable( 'option', 'revert', false );
+		            },
+		            out:function(event,ui)
+		            {
+		            	console.log("out");
+		            	$( this )
+			        	.addClass( "draggedOutClass" )
+			         	.find( "p" )
+			         	.html( "Dropped release with a touch!" );
+			        	//ui.draggable.draggable( 'option', 'revert', true );
+		            }
+		        });
+		        $("#draggable").droppable({
+		        	tolerance:'touch',
+		        	drop:function(event,ui){
+		        		//ui.draggable.draggable( 'option', 'revert', true );
+		        	},
+		        });
+			  });
+		  </script>
+	</head>
+	<body>
+	<div>
+		<div id="draggable" class="draggableClass" style="">
+	  		<p class="ui-widget-content">Drag me !!!</p>
+	  		<p class="jaspal">jaspal singh</p>
+	  		<p class="jaspal">jaspal singh</p>
+     	</div>
+    </div>
+    <div>
+     	<div id='droppable' style="border:2px solid;height: 300px;width:550px;">
+     		
+     	</div>
+    </div>
+	</body>
+</html>

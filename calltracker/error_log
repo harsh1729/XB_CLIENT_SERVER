@@ -1,0 +1,6 @@
+[30-Dec-2015 11:57:18 Etc/GMT] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:50542 Library:50626 in /home/r3narivv/public_html/db_connection.php on line 7
+[30-Dec-2015 11:57:18 Etc/GMT] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:50542 Library:50626 in /home/r3narivv/public_html/db_connection.php on line 7
+[30-Dec-2015 11:57:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/r3narivv/public_html/db_connection.php:7) in /home/r3narivv/public_html/checkLoginOrNot.php on line 4
+[30-Dec-2015 11:57:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/r3narivv/public_html/db_connection.php:7) in /home/r3narivv/public_html/checkLoginOrNot.php on line 4
+[30-Dec-2015 11:57:18 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/r3narivv/public_html/db_connection.php:7) in /home/r3narivv/public_html/checkLoginOrNot.php on line 18
+[30-Dec-2015 12:01:04 Etc/GMT] PHP Fatal error:  Call to undefined function php_info() in /home/r3narivv/public_html/test.php on line 1

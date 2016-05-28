@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/pdf-reader/css/viewer.css">
+<link rel="resource" type="application/l10n" href="<?=base_url();?>plugins/pdf-reader/locale/locale.properties"/>
