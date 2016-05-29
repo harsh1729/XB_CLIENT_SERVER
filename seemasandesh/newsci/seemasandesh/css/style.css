@@ -1,0 +1,120 @@
+/*LEFT NAVIGATION ICON*/
+.dcjq-icon {
+    height:17px;
+    width:17px;
+    display:inline-block;
+    background: url("../images/exp-right.png") no-repeat top;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    position:absolute;
+    right:10px;
+    top:15px;
+}
+.active .dcjq-icon {
+    background: url("../images/exp-down.png") no-repeat bottom;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+.nav-collapse.collapse {
+    display: inline;
+}
+
+.nicescroll-rails
+{
+    pointer-events: none;
+}
+#mainbody
+{
+	position:relative;
+}
+body
+{
+    padding-left:130px;
+    max-width:1300px;
+    margin-left:auto;
+    margin-right:auto;
+    overflow-x:hidden;
+}
+
+
+/*sidebar navigation*/
+
+	#sidebar {
+	    width:130px;
+	    height: 100%;
+	    position: fixed;
+	    background-color:#001122;
+	    overflow:auto;
+	    margin-left:-130px;
+	    z-index:10001;
+	}
+	.navsubmenucontainer
+	{
+		margin-left:-130px;
+		position:fixed;
+		z-index:5;
+	}
+	.navsubmenucontainer>div
+	{
+	    width:130px;
+	    background-color:#C3161C;
+	    height:100vh;
+	    z-index:10000;
+	}
+	.navsubmenucontainer>div>a
+	{
+	    text-decoration:none;
+	    padding:12px 6px;
+	    color:#FFF;
+	    width:100%;
+	    display: block;
+	}
+	.navsubmenucontainer>div>a:hover
+	{
+		background-color:#fff;
+		color:#C3161C;
+	}
+	.menuhovered{
+		background-color:#C3161C;
+		cursor:pointer;
+	}
+	ul#navmenu>li>a
+	{
+		padding-left:10px;
+		padding-top:15px;
+		padding-bottom:15px;
+		text-decoration: none;
+		display: block;
+		width: 100%;
+		color:#fff;
+	}
+
+
+/********* side navigation end *****/
+.center-cropped
+{
+  object-fit: cover; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  height: auto;
+  width: 100%;
+}
+div.slideContainer>img
+{
+    height:300px;
+    min-height:300px;
+    max-height:300px;
+}
+#epaper_navigation>div
+{
+    padding-left:0px;
+}
+#epaper_navigation
+{
+    color:#FFF;
+    width:130px;
+    text-decoration: none;
+    cursor: pointer;
+}
